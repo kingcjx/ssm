@@ -1,0 +1,9 @@
+1 	Page<E>
+
+2	ViewObject ->DTO-> ValueObject~Persistenct Object
+
+	2.1	copyProperty(ViewObject,DTO)
+	2.2	save.(DTO)
+	
+3	ApplicationContextUtil
+
